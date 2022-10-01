@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subaru Sakaguchi</h1>
-<h3 align="center">A hardworker backend developer in training from Brazil</h3>
+<h3 align="center">A hardworker backend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subarusakaguchi&label=Profile%20views&color=0e75b6&style=flat" alt="subarusakaguchi" /> </p>
 
